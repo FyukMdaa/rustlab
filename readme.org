@@ -1,0 +1,6 @@
+#+TITLE: rustlab
+#+AUTHOR: FyukMdaa
+
+* rustlab
+このリポジトリは私がrustを勉強するためのものです。
+主に情報源として活用するのは、rust bookです。
