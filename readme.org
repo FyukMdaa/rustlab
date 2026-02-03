@@ -4,3 +4,11 @@
 * rustlab
 このリポジトリは私がrustを勉強するためのものです。
 主に情報源として活用するのは、rust bookです。
+* 学習メモ
+** hello world
+#+begin_src rust
+fn main () {
+    //ここにコードが入る。インデントはスペース４回で表記
+}
+#+end_src
+mainは関数で引数がある場合は()内部に書き込む。
